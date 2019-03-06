@@ -1,0 +1,12 @@
+{
+  "name": "ideas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^11.10.4",
+    "errors": "^0.3.0",
+    "moment": "^2.24.0",
+    "winston": "^3.2.1"
+  }
+}
